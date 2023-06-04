@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about Full-Stack Development
 - 💞️ I’m looking to collaborate on Interesting Projects
 - 💬 Ask me about JavaScript, Front-End Development
-- ⚡ Music Lover🎵❤️()
+- ⚡ Music Lover🎵❤️
 - 📫 Connect with me: Check links👇🏻😊
 
 <a href="https://www.linkedin.com/in/raghav-cpp/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
