@@ -62,6 +62,15 @@
 
 ---
 
+### ⚡ Projects
+
+- **"Portfolio"** [🔗 Link](https://raghavcpp.onrender.com)
+- **"Yoga Design"** [🔗 Link](https://aanandam-yoga-demo.onrender.com)
+- **"Aviation Health Oil Dashboard"** [🔗 Link](https://aho-dashboard.onrender.com)
+- **"Notes Fanatic"** [🔗 Link](https://notes-fanatic.vercel.app/)
+
+---
+
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/raghav-cpp/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
